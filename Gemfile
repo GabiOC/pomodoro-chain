@@ -36,6 +36,7 @@ end
 
 gem 'bootstrap-sass', '~> 3.1.1'
 gem 'ember-rails'
-gem 'ember-source', '~> 1.9.0'
-gem 'emblem-rails'
+gem 'ember-source'
+gem 'ember-emblem-template'
+gem 'emblem-source'
 gem 'devise'
